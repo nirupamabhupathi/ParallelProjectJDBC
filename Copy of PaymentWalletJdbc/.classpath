@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/MT2 Jar files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/MT2 Jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/MT2 Jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/MT2 Jar files/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/bytecode/cglib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/bytecode/javassist/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/c3p0/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/infinispan/infinispan-core-4.2.1.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/jbosscache/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/oscache/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/proxool/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/optional/swarmcache/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nibhupat/Desktop/hibernate-distribution-3.6.4.Final-dist/hibernate-distribution-3.6.4.Final/lib/required/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
